@@ -1,5 +1,4 @@
-emCopy_of_ESM_C.ipynb analyze whether the embeddings can capture biological variation. 
-It also benchmarks the graph transformer model against BLOSUM
+embed_analysis analyze whether the embeddings can capture biological variation.
 
 Q1.ipynb - Monte Carlo Simulation of Viral Barcoding
 
