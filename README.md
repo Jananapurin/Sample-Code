@@ -1,4 +1,4 @@
-embed_analysis analyze whether the embeddings can capture biological variation.
+embed_analysis.ipynb - analyze whether the embeddings can capture biological variation.
 
 Q1.ipynb - Monte Carlo Simulation of Viral Barcoding
 
